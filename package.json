@@ -1,0 +1,8 @@
+{
+  "name": "02-fibonacci-sequencing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aesthetiques/Fibonacci-Sequencing.git",
+  "author": "Caleb <caleb.wells1@gmail.com>",
+  "license": "MIT"
+}
